@@ -1,5 +1,5 @@
 {
-  "name": "cps",
+  "name": "GPK",
   "version": "1.0.0",
   "description": "Addition",
   "main": "index.js",
@@ -13,8 +13,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bangquangtran/sum-bangquangtran"
+    "url": "https://github.com/abde383940/GPK"
   },
-  "author": "cryptopunkstar",
+  "author": "abde383940",
   "license": "MIT"
 }
